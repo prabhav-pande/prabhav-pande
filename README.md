@@ -4,6 +4,9 @@
   
 My name is Prabhav and I am pursuing a BSc in Computer Science and Applied Statistics at <a href="https://www.cs.purdue.edu/"> Purdue University </a> - West Lafayette (2024). I am currently looking for software engineering/data science internships for summer 2024. If you think I would be a good fit for your company or role, feel free to reach out to the links below!
 
+The languages I have worked with range from Java, Python, C, C++, JavaScript, and R. I am familiar with many frameworks like ReactJS and NextJS. Aside from being driven towards perfection, I enjoy the process of learning in computer science and problem solving in all facets. 
+
+🌱 Currently working on a discord bot that tracks internship applications!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhav-pande/">
