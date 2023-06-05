@@ -2,7 +2,7 @@
   Hello, my name is Prabhav!
 </h1> 
   
-##### My name is Prabhav and I am pursuing a BSc in Computer Science and Applied Statistics at <a href="https://www.cs.purdue.edu/"> Purdue University </a> - West Lafayette (2024). I am currently looking for software engineering/data science internships for summer 2024. If you think I would be a good fit for your company or role, feel free to reach out to the links below!
+#### My name is Prabhav and I am pursuing a BSc in Computer Science and Applied Statistics at <a href="https://www.cs.purdue.edu/"> Purdue University </a> - West Lafayette (2024). I am currently looking for software engineering/data science internships for summer 2024. If you think I would be a good fit for your company or role, feel free to reach out to the links below!
 
 #### 
 
