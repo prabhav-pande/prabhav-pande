@@ -6,7 +6,7 @@ My name is Prabhav and I am pursuing a BSc in Computer Science and Applied Stati
 
 The languages I have worked with range from Java, Python, C, C++, JavaScript, and R. I am familiar with many frameworks like ReactJS and NextJS. Aside from being driven towards perfection, I enjoy learning and problem solving in all facets of my life. 
 
-🌱 Currently working on a discord bot that tracks internship applications!
+🌱 Currently working at DefineEdge Securities
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhav-pande/">
