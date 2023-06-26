@@ -4,10 +4,6 @@
   
 My name is Prabhav and I am pursuing a BSc in Computer Science and Applied Statistics at <a href="https://www.cs.purdue.edu/"> Purdue University </a> - West Lafayette (2024). I am currently looking for software engineering/data science internships for summer 2024. If you think I would be a good fit for your company or role, feel free to reach out to the links below!
 
-The languages I have worked with range from Java, Python, C, C++, JavaScript, and R. I am familiar with many frameworks like ReactJS and NextJS. Aside from being driven towards perfection, I enjoy learning and problem solving in all facets of my life. 
-
-🌱 Currently working at DefineEdge Securities
-
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhav-pande/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"> 
@@ -17,6 +13,16 @@ The languages I have worked with range from Java, Python, C, C++, JavaScript, an
     </a>
 </p>
 
+🌱 Currently working at DefineEdge Securities
+
+
+
+<h3 align="center"> Some of the tools, frameworks, and languages I am familiar with </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,c,cs,cpp,css,firebase,nextjs,nodejs,py,r,react" />
+  </a>
+</p>
 
 <!--
 **prabhav-pande/prabhav-pande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
