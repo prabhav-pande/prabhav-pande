@@ -13,7 +13,7 @@ My name is Prabhav and I am pursuing a BSc in Computer Science and Applied Stati
     </a>
 </p>
 
-🌱 Currently working at DefineEdge Securities
+🌱 Currently working on a project !
 
 
 
